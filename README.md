@@ -2,4 +2,4 @@
 scripts for deploying homelab
 
 # topology
-[topology](topology.png)
+![topology](resources/topology.png)
